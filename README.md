@@ -39,7 +39,7 @@ _NOTE: keep in mind that these numbers are estimates, hence the sum of the numbe
 The Interim Report can be found [here](https://github.com/malvika-mall/Preparing-For-Influenza-Season/blob/main/Interim%20Report.pdf).
 
 ## Storyboard:
-The tableau storyboard can bde found [here](https://public.tableau.com/app/profile/malvika.mall/viz/PREPARINGFORINFLUENZASEASON_16822685027450/Story1).
+The tableau storyboard can be found [here](https://public.tableau.com/app/profile/malvika.mall/viz/PREPARINGFORINFLUENZASEASON_16822685027450/Story1).
 
 ## Analysis Criteria:
 * Exploratory Data Analysis using Excel.
